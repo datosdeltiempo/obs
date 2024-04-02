@@ -104,6 +104,5 @@ font-family: 'Lemonada', cursive;*/
 </style><style>
 //@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap');
 </style>
-<!-- 2.922.505 faltan y 15 fans 7/10/2022 younow locotaca_ely -->
 
 <script src="https://c.webfontfree.com/c.js?f=Pirulen" type="text/javascript"></script>
